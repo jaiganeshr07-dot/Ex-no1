@@ -126,7 +126,7 @@ END
 
 1. Initialize memory and store operands.
 2. Move operands to registers.
-3. Multiply.
+3. Multiply..
 4. Store result.
 
 ##FLOWCHART
