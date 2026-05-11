@@ -60,6 +60,9 @@ END
 
 |         1200                    |
 
+
+
+
 #### Manual Calculations
 
 (Add your calculation here)
@@ -67,6 +70,7 @@ END
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+<img width="1099" height="631" alt="WhatsApp Image 2026-05-11 at 11 47 55 AM" src="https://github.com/user-attachments/assets/eb7f25bb-6817-4418-b045-5f88b2326343" />
 
 ## 2. SUBTRACTION
 
@@ -111,6 +115,8 @@ END
 | ----------------------- | ------------------------ |
 |                         |                          |
 
+
+
 #### Manual Calculations
 
 (Add your calculation here)
@@ -119,6 +125,7 @@ END
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="1099" height="630" alt="WhatsApp Image 2026-05-11 at 11 49 56 AM" src="https://github.com/user-attachments/assets/7c1e1df2-0c66-47b2-894a-e1716966f357" />
 
 ## 3. MULTIPLICATION
 
@@ -160,6 +167,9 @@ END
 | ----------------------- | ------------------------ |
 |                         |                          |
 
+
+
+
 #### Manual Calculations
 
 (Add your calculation here)
@@ -167,7 +177,7 @@ END
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-
+<img width="1090" height="628" alt="WhatsApp Image 2026-05-11 at 11 50 29 AM" src="https://github.com/user-attachments/assets/ed849009-6363-4039-aeea-756fb10d8469" />
 ## 4. DIVISION
 
 #### Algorithm
@@ -211,6 +221,7 @@ END
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
+<img width="1090" height="628" alt="WhatsApp Image 2026-05-11 at 11 50 29 AM" src="https://github.com/user-attachments/assets/937d0b81-c734-4171-b0bb-7e6704220701" />
 
 
 
